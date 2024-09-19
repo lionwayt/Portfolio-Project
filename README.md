@@ -2,7 +2,7 @@
  
 ### 🎉🎉EthioHealthcare Overview
 
-** My project ** Offering resources like online appointment scheduling, accurate and up-to-date health information, such as disease descriptions, treatment options, and preventative care tips.
+**My project** Offering resources like online appointment scheduling, accurate and up-to-date health information, such as disease descriptions, treatment options, and preventative care tips.
 ### Technologies
 Frontend: HTML, JS, CSS
 Backend: PHP
